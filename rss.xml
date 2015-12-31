@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Flowers Forever]]></title>
         <description><![CDATA[Flowers Forever]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flowers-forever/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 06:30:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 06:34:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flowers-forever/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gallery]]></title>
+            <description><![CDATA[<article><h1>Gallery</h1><p>Sign In or Create Account to start sharing your nail art photos easily with everyone. When you upload your photos with us, you can also easily share to Facebook, G+, Twitter or Pinterest with one click. You can also "Like", "Comment", "Share" and "Rate" others' photos and show them how much you like them as you are searching for your next inspiration.</p><img src="http://nailartsy.com/public/style_images/tctc91_glare/meta_image.png"></article>]]></description>
+            <link>http://nailartsy.com/</link>
+            <guid isPermaLink="false">19b220a7-2480-4827-b5fa-cf77e5f90b1c</guid>
+            <pubDate>Thu, 31 Dec 2015 06:34:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MI love ]]></title>
             <description><![CDATA[<article><h1>MI love </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0ce309-7c8b-4667-bb9a-92026884c3bb.jpg"></article>]]></description>
-            <link>undefinedmi-love/index.html</link>
+            <link>https://thegrid.ai/flowers-forever/mi-love/index.html</link>
             <guid isPermaLink="false">32f3d716-ff53-42d6-bd7f-e67a6ac5c615</guid>
             <pubDate>Thu, 31 Dec 2015 06:30:33 GMT</pubDate>
         </item>
