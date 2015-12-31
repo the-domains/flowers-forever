@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Flowers Forever]]></title>
+        <description><![CDATA[Flowers Forever]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Dec 2015 06:30:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MI love ]]></title>
+            <description><![CDATA[<article><h1>MI love </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0ce309-7c8b-4667-bb9a-92026884c3bb.jpg"></article>]]></description>
+            <link>undefinedmi-love/index.html</link>
+            <guid isPermaLink="false">32f3d716-ff53-42d6-bd7f-e67a6ac5c615</guid>
+            <pubDate>Thu, 31 Dec 2015 06:30:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
